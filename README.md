@@ -1,7 +1,9 @@
 # Sobre esse projeto:
 
 > ### Se você está aqui para consultar React  👇:
-> 
+> - _**[Consumindo uma API](https://sujeitoprogramador.com/r-api/?api=filmes/)**_
+> - _Uso de paginação conforme o id fornecido pela API_
+> - Exemplo no código.
 > 
 > ### Se você está aqui para estudar  👇:
 > 
@@ -16,7 +18,7 @@
 > > - [Projeto Rotas/Paginação](https://github.com/DFMaia/react-rotas)
 > 
 > > _**Próximo Projeto:**_
-> > - ?
+> > - [_**Fluxo de rotas com Autenticação**_](https://github.com/DFMaia/react-fluxo-rotas-autenticacao)
 
 ### Sobre os links:
 

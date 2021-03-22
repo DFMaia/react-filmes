@@ -1,25 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+//Link de API de filmes
+//https://jsoneditoronline.org/#right=local.cesodi&left=url.https%3A%2F%2Fsujeitoprogramador.com%2Fr-api%2F%3Fapi%3Dfilmes%2F
+import './style.css';
+import Routes from './routes';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+
+class App extends Component{
+  render(){
+    return(
+      <div className="app">
+        <Routes/>
+      </div>
+    );
+  }
 }
 
 export default App;
